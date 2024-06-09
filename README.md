@@ -13,9 +13,11 @@
 
 
 ## Hi there 👋
-- 🔭 I’m currently working on **Software Expert** at **BBVA**
+- 🔭 I’m currently working on **BBVA**
 - 🔭 **Software Developer**
-- 🔭 Specialized in API design
+- 🔭 **Specialized in API design**
+- 🔭 [Linkedin](https://www.linkedin.com/in/bryan-silverio-6b417098)
+- 🔭 [Website](https://bryansilverio.com/)
   
 <!--
 **bryansilverio/bryansilverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
